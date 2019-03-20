@@ -9,6 +9,13 @@ Ducky es una calculadora que te permite realizar muchas cosas, desde operaciones
 
 Solo tienes que usar una de las funciones del menú y listo!
 
+## Funciones disponibles
+
+* Suma
+* Resta
+* Raíces
+* Integral definida
+
 # Contribuir
 
 ## Requerimientos
