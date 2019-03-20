@@ -27,7 +27,7 @@ y luego actiar el ambiente virtual:
 `$ source env/bin/activate`
 
 Una vez en el ambiente, hay que instalar los requerimientos
-`$ pip install requirments.txt`
+`$ pip install requirements.txt`
 
 Estás listo para usar Ducky!
 
