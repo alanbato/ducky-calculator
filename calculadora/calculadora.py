@@ -11,6 +11,8 @@ def main():
         fn.resta,
         fn.raices,
         fn.integral_definida,
+        fn.multiplicacion,
+        fn.division
     )
     print('Ducky v1.0')
     while(True):

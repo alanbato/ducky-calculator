@@ -56,3 +56,34 @@ def integral_definida(funcion, a, b):
 
     result = sp.integrate(funcion, ('x', a, b))
     return result
+
+
+
+def multiplicacion(a, b):
+    """
+    Multiplica dos números y regresa el resultado
+
+    Args:
+        a (número)    
+        b (número)
+    
+    Returns:
+        a * b: el producto de a y b
+    """
+    return a * b
+
+def division(a, b):
+    """
+    Divide dos números y regresa el resultado
+
+    Args:
+        a (número)    
+        b (número)
+    
+    Returns:
+        a / b: el cociente de a y b
+    """
+    if b == 0:
+        print("El denominador no puede ser cero")
+        return
+    return a / b
