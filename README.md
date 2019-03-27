@@ -10,7 +10,22 @@ Ducky es una calculadora que te permite realizar muchas cosas, desde operaciones
 
 # Uso
 
-Solo tienes que usar una de las funciones del menú y listo!
+Ejecuta Ducky Calculator con el siguiente comando:
+`$ python calculadora.py`
+
+Aparecerá un menú. Elige una opción escribiendo el número que aparece a la izquierda.
+
+
+![Menú](https://i.imgur.com/mIKZJRc.png)
+
+Introduce los valores solicitados.
+
+
+![Resultado](https://i.imgur.com/i60S8tn.png)
+
+
+¡Listo!
+
 
 ## Funciones disponibles
 
