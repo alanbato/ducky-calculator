@@ -29,6 +29,20 @@ Solo tienes que usar una de las funciones del menú y listo!
 
 ## Setup
 
+### Windows
+
+1. En Command Prompt, ejecutar:
+`pip install virtualenv`
+
+2. Navegar a la carpeta de tu proyecto y ejecutar:
+`virtualenv env`
+
+3. Activar el script en:
+`source ./env/Scripts/activate`
+
+4. Instalar requirements
+`pip install -r requirements.txt`
+
 ### Linux
 
 Primero, se recomienda crear un ambiente virtual de la siguiente manera:
